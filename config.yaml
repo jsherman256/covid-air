@@ -5,7 +5,11 @@ menu:
     - identifier: protect
       name: Protecting Yourself
       url: /categories/protecting-yourself/
-      weight: 10
+      weight: 1
+    - identifier: engineer
+      name: Engineering Methods
+      url: /categories/engineering-methods/
+      weight: 2
 cascade:
   ShowReadingTime: true
   ShowPostNavLinks: true
