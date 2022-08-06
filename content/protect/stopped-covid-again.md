@@ -6,6 +6,9 @@ description:  Different home this time.
 summary:  Different home this time.
 categories:
   - Protecting yourself
+tags:
+  - Stories
+  - Home
 ---
 [Source](https://twitter.com/joeyfox85/status/1503177474875736064)
 

@@ -5,7 +5,9 @@ draft: false
 description: What you need to know to protect yourself.
 summary: What you need to know to protect yourself.
 categories:
-  - Protecting yourself 
+  - Protecting yourself
+tags:
+  - Home
 ---
 
 [Source](https://twitter.com/joeyfox85/status/1508527893567131652)

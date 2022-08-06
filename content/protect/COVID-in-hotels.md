@@ -5,7 +5,9 @@ draft: false
 description: The three things you should do
 summary: The three things you should do
 categories:
-  - Protecting yourself 
+  - Protecting yourself
+tags:
+  - Travel
 ---
 [Source](https://twitter.com/joeyfox85/status/1534669593268166657)
 

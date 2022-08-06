@@ -6,6 +6,9 @@ description: Plexiglass can be useful in specific situations, but harmful in oth
 summary: Plexiglass can be useful in specific situations, but harmful in others. To know why, you need to know the different methods of airborne transmission.
 categories:
   - Protecting yourself
+tags:
+  - Plexiglass
+  - School
 ---
 [Source](https://twitter.com/joeyfox85/status/1488590910011150340)
 

@@ -6,6 +6,9 @@ description: We didn't resort to extreme measures like isolation or kids wearing
 summary: We didn't resort to extreme measures like isolation or kids wearing N95s all day. This is how we did it
 categories:
   - Protecting yourself
+tags:
+  - Stories
+  - Home
 ---
 [Source](https://twitter.com/joeyfox85/status/1493685067126030337)
 

@@ -5,7 +5,9 @@ draft: false
 description: Many are very worried about what's going to happen Monday. If you are sending your kid back to school, there are things that you can still do
 summary: Many are very worried about what's going to happen Monday. If you are sending your kid back to school, there are things that you can still do
 categories:
-  - Protecting yourself 
+  - Protecting yourself
+tags:
+  - School
 ---
 
 [Source](https://twitter.com/joeyfox85/status/1476383605647724547)

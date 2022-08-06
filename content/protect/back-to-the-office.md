@@ -6,6 +6,8 @@ description: Are you going back and want to know what to do? Here's a 6 step pla
 summary: Are you going back and want to know what to do? Here's a 6 step plan
 categories:
   - Protecting yourself 
+tags:
+  - Office
 ---
 
 [Source](https://twitter.com/joeyfox85/status/1523465151332360192)
