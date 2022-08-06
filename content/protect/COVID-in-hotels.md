@@ -1,5 +1,5 @@
 ---
-title: "Reducing COVID risk in a hotel (apartments too) 🧵"
+title: "Reducing COVID risk in a hotel (apartments too)"
 date: 2022-06-08T22:51:58.000Z
 draft: false
 description: The three things you should do
