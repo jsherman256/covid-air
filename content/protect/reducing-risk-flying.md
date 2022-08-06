@@ -11,7 +11,9 @@ categories:
 
 ---
 
-You will have no control over many of the places you will be. Your best line of defense is a N95. It needs to be properly fit. Some places will be very high risk and a poorly fitted respirator might not be good enough. [Do a seal check.](https://cleanaircrew.org/masks/#How_to_wear_-_user_seal_check)
+You will have no control over many of the places you will be. Your best line of defense is a N95. It needs to be properly fit. Some places will be very high risk and a poorly fitted respirator might not be good enough. Do a seal check.
+
+{{< youtube id="pGXiUyAoEd8" >}}
 
 ## Getting to the airport
 
@@ -29,6 +31,7 @@ At the gate, try to find empty space away from people. It's large, open and usua
 This will be the highest risk time. Once you are on the plane you will be hot-boxed and you can't prevent it.
 
 Ways to minimize risk:
+
 **1. Wear a N95 (no kidding)**
 
 **2. Minimize time - be the last to board if possible. You might lose luggage room in the overhead bin. Prepare accordingly.**
