@@ -1,6 +1,6 @@
 ---
 title: "Ways To Keep Your Kid Safe at School"
-date: 2022-08-05T03:36:05-07:00
+date: 2021-12-30T02:44:16.000Z
 draft: false
 description: Many are very worried about what's going to happen Monday. If you are sending your kid back to school, there are things that you can still do
 summary: Many are very worried about what's going to happen Monday. If you are sending your kid back to school, there are things that you can still do
@@ -8,7 +8,7 @@ categories:
   - Protecting yourself 
 ---
 
-[Tweet](https://twitter.com/joeyfox85/status/1476383605647724547)
+[Source](https://twitter.com/joeyfox85/status/1476383605647724547)
 
 ---
 

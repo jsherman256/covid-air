@@ -1,6 +1,6 @@
 ---
-title: "Your guide to stopping COVID in your home - short version"
-date: 2022-08-05T03:36:05-07:00
+title: "Stopping COVID in your home - short version"
+date: 2022-05-02T17:41:34.000Z
 draft: false
 description: Here's a quick rundown of what to do.
 summary: Here's a quick rundown of what to do.
@@ -8,7 +8,7 @@ categories:
   - Protecting yourself 
 ---
 
-[Tweet](https://twitter.com/joeyfox85/status/1521183126894088193)
+[Source](https://twitter.com/joeyfox85/status/1521183126894088193)
 
 ---
 

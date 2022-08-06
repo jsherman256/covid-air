@@ -1,0 +1,12 @@
+baseUrl: 'https://jsherman256.github.io/covid-air'
+theme: 'PaperMod'
+menu:
+  main:
+    - identifier: protect
+      name: Protecting Yourself
+      url: /categories/protecting-yourself/
+      weight: 10
+cascade:
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowToc: true

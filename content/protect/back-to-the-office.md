@@ -1,6 +1,6 @@
 ---
 title: "Back to the Office Plan"
-date: 2022-08-05T03:36:05-07:00
+date: 2022-05-09T00:49:31.000Z
 draft: false
 description: Are you going back and want to know what to do? Here's a 6 step plan
 summary: Are you going back and want to know what to do? Here's a 6 step plan
@@ -8,7 +8,7 @@ categories:
   - Protecting yourself 
 ---
 
-[Tweet](https://twitter.com/joeyfox85/status/1523465151332360192)
+[Source](https://twitter.com/joeyfox85/status/1523465151332360192)
 
 ---
 

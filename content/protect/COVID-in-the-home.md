@@ -1,6 +1,6 @@
 ---
 title: "Your guide to stopping COVID in your home"
-date: 2022-08-05T03:36:05-07:00
+date: 2022-03-28T19:34:11.000Z
 draft: false
 description: What you need to know to protect yourself.
 summary: What you need to know to protect yourself.
@@ -8,7 +8,7 @@ categories:
   - Protecting yourself 
 ---
 
-[Tweet](https://twitter.com/joeyfox85/status/1508527893567131652)
+[Source](https://twitter.com/joeyfox85/status/1508527893567131652)
 
 ---
 
@@ -84,7 +84,7 @@ Turn on an exhaust fan in an adjacent bathroom or have a fan blowing air out a w
 
 They look like this:
 
-![Picture of HVAC return vent](/return-vent.jpg)
+![Picture of HVAC return vent](/covid-air/return-vent.jpg)
 
 ## Your Home Furnace
 
