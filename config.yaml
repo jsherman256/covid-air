@@ -2,14 +2,18 @@ baseUrl: 'https://jsherman256.github.io/covid-air'
 theme: 'PaperMod'
 menu:
   main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
     - identifier: protect
       name: Protecting Yourself
       url: /categories/protecting-yourself/
-      weight: 1
+      weight: 2
     - identifier: engineer
       name: Engineering Methods
       url: /categories/engineering-methods/
-      weight: 2
+      weight: 3
 cascade:
   ShowReadingTime: true
   ShowPostNavLinks: true
