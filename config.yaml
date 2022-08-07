@@ -14,6 +14,10 @@ menu:
       name: Engineering Methods
       url: /categories/engineering-methods/
       weight: 3
+    - identifier: ventilation
+      name: Ventilation, Air Quality and CO2
+      url: /categories/ventilation-air-quality-and-co2/
+      weight: 4
 cascade:
   ShowReadingTime: true
   ShowPostNavLinks: true
