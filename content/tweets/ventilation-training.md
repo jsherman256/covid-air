@@ -32,17 +32,17 @@ Attach a tissue to the end with tape or hair clips. Wait until no one is looking
 
 H/T to [@LadyScorcher](https://twitter.com/LadyScorcher) getting CO2 monitors into libraries.
 
-{{< tweet user="LadyScorcher" id="1454610278285516800" >}}
-
 It can be done!!! 👏👏👏
+
+{{< tweet user="LadyScorcher" id="1454610278285516800" >}}
 
 {{< tweet user="torontolibrary" id="1509518004958212100" >}}
 
 It shouldn't come as a surprise that [@twpiggott](https://twitter.com/twpiggott), the Medical Officer of Health for [@Ptbohealth](https://twitter.com/Ptbohealth) is leading the way. He was the first MOH to recognize [#COVIDisAirborne](https://twitter.com/hashtag/COVIDisAirborne) and was a PH leader on N95s. Air quality is his next great initiative.
 
-{{< tweet user="twpiggott" id="1508828965653389314" >}}
-
 Try to do this in your own community. There are people here to help.
+
+{{< tweet user="twpiggott" id="1508828965653389314" >}}
 
 {{< tweet user="LadyScorcher" id="1508908294395600901" >}}
 
