@@ -5,7 +5,7 @@ draft: false
 description: We didn't resort to extreme measures like isolation or kids wearing N95s all day. This is how we did it
 summary: We didn't resort to extreme measures like isolation or kids wearing N95s all day. This is how we did it
 categories:
-  - Protecting yourself
+  - Protecting Yourself
 tags:
   - Stories
   - Home

@@ -5,7 +5,7 @@ draft: false
 description: Going on a trip? Want to avoid getting COVID? Follow these steps and you can significantly lower your risk.
 summary: Going on a trip? Want to avoid getting COVID? Follow these steps and you can significantly lower your risk.
 categories:
-  - Protecting yourself
+  - Protecting Yourself
 tags:
   - Travel
 ---

@@ -5,7 +5,7 @@ draft: false
 description:  Different home this time.
 summary:  Different home this time.
 categories:
-  - Protecting yourself
+  - Protecting Yourself
 tags:
   - Stories
   - Home

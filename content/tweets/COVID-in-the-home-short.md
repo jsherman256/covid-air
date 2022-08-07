@@ -5,7 +5,7 @@ draft: false
 description: Here's a quick rundown of what to do.
 summary: Here's a quick rundown of what to do.
 categories:
-  - Protecting yourself
+  - Protecting Yourself
 tags:
   - Home
 ---

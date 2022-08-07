@@ -5,7 +5,7 @@ draft: false
 description: Are you going back and want to know what to do? Here's a 6 step plan
 summary: Are you going back and want to know what to do? Here's a 6 step plan
 categories:
-  - Protecting yourself 
+  - Protecting Yourself 
 tags:
   - Office
 ---

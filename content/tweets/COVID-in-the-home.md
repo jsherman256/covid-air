@@ -5,7 +5,7 @@ draft: false
 description: What you need to know to protect yourself.
 summary: What you need to know to protect yourself.
 categories:
-  - Protecting yourself
+  - Protecting Yourself
 tags:
   - Home
 ---

@@ -5,7 +5,7 @@ draft: false
 description: You are standing in front of a smoker, how to do you avoid inhaling the smoke?
 summary: You are standing in front of a smoker, how to do you avoid inhaling the smoke?
 categories:
-  - Protecting yourself
+  - Protecting Yourself
 tags:
   - Plexiglass
 ---

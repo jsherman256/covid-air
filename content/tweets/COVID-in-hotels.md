@@ -5,7 +5,7 @@ draft: false
 description: The three things you should do
 summary: The three things you should do
 categories:
-  - Protecting yourself
+  - Protecting Yourself
 tags:
   - Travel
 ---

@@ -5,7 +5,7 @@ draft: false
 description: When I shared my story about stopping COVID, many people shared theirs in the comments. 
 summary: When I shared my story about stopping COVID, many people shared theirs in the comments. 
 categories:
-  - Protecting yourself
+  - Protecting Yourself
 tags:
   - Stories
   - Home
