@@ -9,6 +9,7 @@ categories:
 tags:
   - Ventilation
   - Masks
+  - CO2
 ---
 [Source](https://twitter.com/joeyfox85/status/1552490859869995008)
 
