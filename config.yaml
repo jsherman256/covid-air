@@ -1,12 +1,9 @@
 baseUrl: 'http://www.itsairborne.com/'
+title: "It's Airborne."
 theme: 'PaperMod'
 googleAnalytics: G-R2WREQMZ3M
 menu:
   main:
-    - identifier: home
-      name: Home
-      url: /
-      weight: 1
     - identifier: protect
       name: Protecting Yourself
       url: /categories/protecting-yourself/
@@ -23,3 +20,15 @@ cascade:
   ShowReadingTime: true
   ShowPostNavLinks: true
   author: "Joey Fox, P. Eng, M.A.Sc"
+params:
+  description: "#COVIDisAirborne. If you know how it spreads, you know how to stop it."
+  ShowShareButtons: true
+  defaultTheme: dark
+  homeInfoParams:
+    title: "#COVIDisAirborne."
+    content: "If you know how it spreads, you know how to stop it. Posts by [@joeyfox85](https://twitter.com/joeyfox85)"
+  socialIcons: # optional
+    - name: "twitter"
+      url: "https://twitter.com/joeyfox85/status/1554939526560333825"
+    - name: "github"
+      url: "https://github.com/jsherman256/covid-air/"
