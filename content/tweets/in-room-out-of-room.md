@@ -11,7 +11,7 @@ categories:
 
 ---
 
-First, there are [3 science based methods](/covid-air/engineer/methods/) to clean the air:
+First, there are [3 science based methods](/engineer/methods/) to clean the air:
 - **Ventilation** - bringing in outdoor air
 - **Filtration** - filtering particles from the air
 - **UV** - killing microbes with UV light
@@ -45,10 +45,10 @@ These can be done in-room and out-of-room (in the HVAC unit).
 - install UV lights in the HVAC unit, either by the coils or in the supply duct
 
 To illustrate from [@DavidElfstrom](https://twitter.com/DavidElfstrom)'s picture:
-![Diagram demonstrating various in-room and out-of-room mitigation methods](/covid-air/in-room-out-of-room.jpg)
+![Diagram demonstrating various in-room and out-of-room mitigation methods](/in-room-out-of-room.jpg)
 
 To illustrate from [@CPHO_Canada](https://twitter.com/CPHO_Canada)'s picture:
-![List of different in-room and out-of-room mitigation methods](/covid-air/in-room-out-of-room-2.png)
+![List of different in-room and out-of-room mitigation methods](/in-room-out-of-room-2.png)
 
 **Why is In-Room mitigation better than Out-Of-Room mitigation?**
 

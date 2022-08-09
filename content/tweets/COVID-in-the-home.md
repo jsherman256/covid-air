@@ -86,7 +86,7 @@ Turn on an exhaust fan in an adjacent bathroom or have a fan blowing air out a w
 
 They look like this:
 
-![Picture of HVAC return vent](/covid-air/return-vent.jpg)
+![Picture of HVAC return vent](/return-vent.jpg)
 
 ## Your Home Furnace
 

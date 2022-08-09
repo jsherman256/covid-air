@@ -26,7 +26,7 @@ The three things you should do are:
 
 The standard way ventilation systems work in hotels and apartment buildings is outdoor air is supplied to the hallway, flows under the door and is exhausted through the washroom. Here's how to check the ventilation:
 
-![Diagram of HVAC system in a hotel](/covid-air/hotel-vent.jpg)
+![Diagram of HVAC system in a hotel](/hotel-vent.jpg)
 
 1. Use a CO2 monitor. If it's high, you know something is wrong.
 2. Go into the hallway and ensure air is being supplied. You can hold the CO2 monitor to the supply air and measure the CO2 being supplied. It should be around 420 ppm (100% outdoor air)

@@ -13,14 +13,14 @@ categories:
 
 **1. The cheapest thing to do is to look & listen.** Find the diffusers where the air is coming from and try to listen for it. When you can't hear it - something is wrong. Be mindful of the ventilation wherever you are. 
 
-| ![Picture of a vent](/covid-air/vent2.jpg) | ![Picture of a vent](/covid-air/vent3.jpg) |
+| ![Picture of a vent](/vent2.jpg) | ![Picture of a vent](/vent3.jpg) |
 | - | - |
 
 **2. Start checking thermostats.** Go around and ask people to see them - you’re a ventilation expert now. Make sure the thermostats are all in Fan or On and not Auto. You can either be polite and breathe in everyone’s backwash – or make your voice heard for clean air.
 
 **3. If this is a space where you'll be for a long time** (classroom or office), then get a ladder or someone who can climb a ladder safely. Tape some strips of plastic to the diffusers. You can constantly check the airflow by watching the strips flap. Just look up!
 
-![Picture of a vent with an arrow indicating to add a flap of tape as an airflow indicator](/covid-air/tape-plastic-strip.jpg)
+![Picture of a vent with an arrow indicating to add a flap of tape as an airflow indicator](/tape-plastic-strip.jpg)
 
 **4. Time for some investments** - [magnetic telescoping pickup tool](https://www.amazon.ca/Zerodis-Telescopic-Magnetic-Extending-Handheld/dp/B07DNZJQ5V/ref=asc_df_B07DNZJQ5V/). Fits in your pocket. If you are 5'8" or so, a 25" opened rod is sufficient to reach diffusers that are 9' high (most buildings). If you're shorter, you'll need a longer one.
 
@@ -58,7 +58,7 @@ Make sure the building operator knows you want the **CO2 < 800 ppm**. You'll hav
 
 You are now a ventilation expert. Use your expertise to keep everyone else healthy.
 
-![A graphic showing how different concentrations of CO2 approximate different levels of ventilation. less than 600 ppm Excellent; less than 800 ppm Good; 800+ ppm needs more ventilation; 1000+ CAUTION; 5000+ DANGER](/covid-air/CO2-ppm.png)
+![A graphic showing how different concentrations of CO2 approximate different levels of ventilation. less than 600 ppm Excellent; less than 800 ppm Good; 800+ ppm needs more ventilation; 1000+ CAUTION; 5000+ DANGER](/CO2-ppm.png)
 
 Here are additional CO2 sensors which are less expensive.
 

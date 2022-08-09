@@ -28,11 +28,11 @@ For shared room airborne transmission, proper ventilation is an important mitiga
 
 Plexiglass *restricts* the ventilation and allows a localized concentration of aerosols from eddies. This increases the likelihood you can get infected.
 
-![Diagram of air flow around an obstacle (i.e. "arrestor"). The arrestor causes stagnant circular flows ("eddies") behind it](/covid-air/flow-arrestor.jpg)
+![Diagram of air flow around an obstacle (i.e. "arrestor"). The arrestor causes stagnant circular flows ("eddies") behind it](/flow-arrestor.jpg)
 
 The fact that [plexiglass has been shown to increase the risk of infection in schools](https://www.science.org/doi/10.1126/science.abh2939) is proof that when students are sitting at their desks, shared room transmission is a higher risk than short range transmission.
 
-![Graph showing various COVID interventions in schools and how they correlate with COVID case rates in the school. Desk shields correlated with a much higher rate of COVID cases](/covid-air/covid-in-schools.jpg)
+![Graph showing various COVID interventions in schools and how they correlate with COVID case rates in the school. Desk shields correlated with a much higher rate of COVID cases](/covid-in-schools.jpg)
 
 **The conclusion is:**
 

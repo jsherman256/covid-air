@@ -35,7 +35,7 @@ Then I got to work.
 
 My new normal is to keep a stash of box fans and MERV-13 filters in my basement for emergencies. This was an emergency. I got out my duct tape and got to work. My mother had a spare 15 yo air purifier. We recently changed the filter. We dropped off two gifts at their door.
 
-![A photo of two Corsi-Rosenthal boxes sitting outside a door](/covid-air/cr-boxes-outside.jpg)
+![A photo of two Corsi-Rosenthal boxes sitting outside a door](/cr-boxes-outside.jpg)
 
 He ran the HEPA filter in the bedroom. She kept the [#CorsiRosenthalBox](https://twitter.com/hashtag/CorsiRosenthalBox) on and near her where she went. They did that for one week and she didn't get infected.
 
@@ -43,7 +43,7 @@ It's not complicated. N95s and clean air.
 
 They were in an easier situation with a larger house and no young kids.
 
-![Screenshot of an iMessage reading "OMG JUDY YOU AND JOEY SAVED MY LIFE! WE BOTH JUST TESTED NEGATIVE :) :) :)](/covid-air/imessage.jpg)
+![Screenshot of an iMessage reading "OMG JUDY YOU AND JOEY SAVED MY LIFE! WE BOTH JUST TESTED NEGATIVE :) :) :)](/imessage.jpg)
 
 ---
 

@@ -52,8 +52,8 @@ Air will flow from the nozzles above your head and exhaust by your feet. It prov
 
 (Thank you [@CPita3](https://twitter.com/CPita3) for explaining this)
 
-![Photo of overhead air nozzles in an airplane](/covid-air/airplane-1.png)
-![Photo of exhaust vent near the floor of the airplane](/covid-air/airplane-2.png)
+![Photo of overhead air nozzles in an airplane](/airplane-1.png)
+![Photo of exhaust vent near the floor of the airplane](/airplane-2.png)
 
 Airlines can run the air conditioning system in different ways:
 1. Only when the engine turns on at taxi. Not on the ground.
@@ -75,4 +75,4 @@ If you can, throughout this whole process, wear a N95, try to move as quickly as
 
 ---
 
-If you are staying at hotels, [just follow this thread](/covid-air/protect/covid-in-hotels/). Enjoy your vacation.
+If you are staying at hotels, [just follow this thread](/protect/covid-in-hotels/). Enjoy your vacation.

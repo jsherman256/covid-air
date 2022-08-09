@@ -53,7 +53,7 @@ This also shows [the limitation of CO2 monitoring](https://twitter.com/joeyfox85
 So what is good ventilation? For airborne transmission risk: **4-6+ ACH**.
 Now that we live in the COVID era, we need more data. A higher ACH might be necessary going forward - especially in places prone to super-spreader events.
 
-![Chart comparing adequacy of different ACH rates. 6 is ideal; 5-6 is excellent; 4-5 is good; 3-4 is bare minimum; less than 3 is low](/covid-air/ach-chart.jpg)
+![Chart comparing adequacy of different ACH rates. 6 is ideal; 5-6 is excellent; 4-5 is good; 3-4 is bare minimum; less than 3 is low](/ach-chart.jpg)
 
 **Assuming 800 sq ft classroom, 9' ceilings, 25 ppl. What is ASHRAE minimum?**
 
@@ -93,4 +93,4 @@ This is similar to the old standard for environmental tobacco smoke (ETS). What'
 | Modern Minimum | 17.5 CFM/person, 8.2 LPS/person, 3.6 ACH |
 | Ideal | 29 CFM/person, 13.4 LPS/person, 166% of modern minimum, 6 ACH |
 
-![Graph showing different levels of ventilation.](/covid-air/vent-level-graph.png)
+![Graph showing different levels of ventilation.](/vent-level-graph.png)

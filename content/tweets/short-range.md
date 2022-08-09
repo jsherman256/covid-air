@@ -23,7 +23,7 @@ These are still the best method we have to mitigate the spread of COVID.
 
 This has been one of the key messages this pandemic. It helps with short-range but doesn't help with shared room transmission.
 
-![Photo of two people standing across from each other. Smoke comes from their faces until they put masks on](/covid-air/masks-smoke.jpg)
+![Photo of two people standing across from each other. Smoke comes from their faces until they put masks on](/masks-smoke.jpg)
 
 **3. Plexiglass**
 
@@ -53,13 +53,13 @@ It's a flexible ducted intake to a HEPA filter. You put the hose near the person
 
 These fans can either create currents to pull the air up out of the breathing zone or push air down into the breathing zone. These work well in rooms with high ceilings. It can help in crowded places too.
 
-![Diagram showing the air currents created by a ceiling fan. The fan tends to move air upwards and away from itself](/covid-air/ceiling-fan.png)
+![Diagram showing the air currents created by a ceiling fan. The fan tends to move air upwards and away from itself](/ceiling-fan.png)
 
 They also help in general to save energy. In the summer when it's hot, they promote evaporative cooling on your skin requiring less mechanical cooling.
 
 In the winter they can push hot air that is buoyant in the upper room into the lower room (destratification).
 
-![Photo of a room with large ceiling fans](/covid-air/ceiling-fan-2.png)
+![Photo of a room with large ceiling fans](/ceiling-fan-2.png)
 
 Bringing air into the upper room in places with high ceilings lowers risk in general. Combining it with upper room UV will do a great job at cleaning the air. 
 
@@ -73,11 +73,11 @@ For mixing ventilation, we assume the room is well mixed, so things that mix the
 
 Displacement ventilation is different. Slightly cooler air is supplied near the floor and extracted at the ceiling.
 
-![Diagram comparing traditional mixing and displacement ventilation. In the former, air is mostly homogenous. In the latter, older air moves upwards, away from occupants](/covid-air/displacement-ventilation.jpg)
+![Diagram comparing traditional mixing and displacement ventilation. In the former, air is mostly homogenous. In the latter, older air moves upwards, away from occupants](/displacement-ventilation.jpg)
 
 This creates an upward current through the room. I can't say how effective this would be for short range mitigation. The airflow speed is not that high. The air can then be exhausted or filtered in the HVAC unit before being resupplied.
 
-![Diagram showing a thermal plume around and above an occupant](/covid-air/displacement-ventilation-2.jpg)
+![Diagram showing a thermal plume around and above an occupant](/displacement-ventilation-2.jpg)
 
 **8. Use a fan for cross-current (beware)**
 
@@ -93,10 +93,10 @@ This is UV light that is safe enough to shine directly at people, but can still 
 
 Good air quality helps with short range transmission. It isn't something you can rely on solely, but [it can make a difference](https://onlinelibrary.wiley.com/doi/full/10.1111/ina.12946)
 
-![Graph showing risk of inhaling COVID depending on ventilation quality and distance from the infected person. Outdoor is lowest risk, sufficient ventilation is low risk, and poor ventilation is high risk. The benefits of ventilation are more pronounced as distance increases, especially over 2 meters](/covid-air/inhalation-risk.jpg)
+![Graph showing risk of inhaling COVID depending on ventilation quality and distance from the infected person. Outdoor is lowest risk, sufficient ventilation is low risk, and poor ventilation is high risk. The benefits of ventilation are more pronounced as distance increases, especially over 2 meters](/inhalation-risk.jpg)
 
 Airborne diseases transmit best at close range. [Here's what the CDC says about TB.](https://www.cdc.gov/tb/education/corecurr/pdf/chapter2.pdf)
 
 We know that ventilation and upper room UV reduce transmission of TB. They work against COVID too.
 
-![A informational table from the CDC about factors impacting transmission of tuberculosis. It states that "The closer the proximity [to an infectious person], the higher the risk for transmission"](/covid-air/cdc-proximity.png)
+![A informational table from the CDC about factors impacting transmission of tuberculosis. It states that "The closer the proximity [to an infectious person], the higher the risk for transmission"](/cdc-proximity.png)

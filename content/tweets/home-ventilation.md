@@ -33,7 +33,7 @@ Most homes do not have mechanical ventilation.
 
 You can add mechanical ventilation to your home with a heat recovery ventilator (HRV) or energy recovery ventilator (ERV). Both exhaust air from the house and bring in outdoor air to replace it. There's a heat exchanger to bring the incoming air to a better temperature.
 
-![Diagram of a heat recovery ventilator. Stale indoor air is replaced with fresh, outdoor air. The heat from the indoor air is transferred to the fresh, outdoor air for better energy efficiency](/covid-air/heat-recovery-vent.png)
+![Diagram of a heat recovery ventilator. Stale indoor air is replaced with fresh, outdoor air. The heat from the indoor air is transferred to the fresh, outdoor air for better energy efficiency](/heat-recovery-vent.png)
 
 The difference between them is humidity. HRV does not transfer humidity between the exhaust and outdoor air while the ERV does. If you want one, choose the type based on your climate. [Here's a good map](https://www.ecohome.net/guides/2276/choosing-between-an-hrv-and-an-erv/).
 
@@ -41,7 +41,7 @@ These units connect into your furnace and use your duct system to supply the ven
 
 Most AC or window units do not provide ventilation. They just recirculate the air. 
 
-![Diagram showing an energy recovery unit in an HVAC system](/covid-air/hvac-with-erv.png)
+![Diagram showing an energy recovery unit in an HVAC system](/hvac-with-erv.png)
 
 **Do you need a HRV or ERV?**
 
