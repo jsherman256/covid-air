@@ -1,5 +1,6 @@
 baseUrl: 'http://www.itsairborne.com/'
 theme: 'PaperMod'
+googleAnalytics: G-R2WREQMZ3M
 menu:
   main:
     - identifier: home
