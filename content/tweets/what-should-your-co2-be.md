@@ -9,6 +9,7 @@ categories:
 tags:
   - Ventilation
   - CO2
+  - School
 ---
 [Source](https://twitter.com/joeyfox85/status/1543677113051582466)
 
@@ -93,4 +94,4 @@ Well below 1500 ppm quoted earlier.
 
 ---
 
-I dealt with mechanical ventilation in this thread. Natural ventilation is slightly higher. Still well below 1500 ppm.
+Note: I dealt with mechanical ventilation in this thread. Natural ventilation is slightly higher. Still well below 1500 ppm.
