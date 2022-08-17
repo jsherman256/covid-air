@@ -9,6 +9,7 @@ categories:
 tags:
   - Ventilation
   - Improving Ventilation
+  - Common Ventilation Issues
 ---
 [Source](https://twitter.com/joeyfox85/status/1503812309445189633)
 
