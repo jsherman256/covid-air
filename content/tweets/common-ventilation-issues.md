@@ -2,14 +2,13 @@
 title: "Common Ventilation Issues"
 date: 2022-03-15T19:16:08.000Z
 draft: false
-description: I'm going to be doing a bunch of tweets about common ventilation issues, how to diagnose them and how to resolve them.
+description:
 summary: I'm going to be doing a bunch of tweets about common ventilation issues, how to diagnose them and how to resolve them.
 categories:
   - Ventilation, Air Quality and CO2
+  - Common Ventilation Issues
 tags:
   - Ventilation
-  - Improving Ventilation
-  - Common Ventilation Issues
 ---
 [Source](https://twitter.com/joeyfox85/status/1503812309445189633)
 

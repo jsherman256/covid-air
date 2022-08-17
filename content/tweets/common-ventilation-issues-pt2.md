@@ -2,13 +2,16 @@
 title: "Common Ventilation Issues - Part 2"
 date: 2022-03-24T00:12:01.000Z
 draft: false
-description: 
+description:
 summary: Long before we had modern standards, ventilation was bad. 
 categories:
+  - Ventilation, Air Quality and CO2
+  - Common Ventilation Issues
+tags:
+  - Ventilation
 ---
-[Source](https://twitter.com/joeyfox85/status/1506785871663702020)
 
-[Part 1](/tweets/common-ventilation-issues/)
+[Source](https://twitter.com/joeyfox85/status/1506785871663702020)
 
 ---
 
