@@ -1,8 +1,8 @@
 ---
-title: "Common Ventilation Issues - Part 4"
+title: "Common Issues: The Rooftop Unit"
 date: 2022-04-11T20:03:07.000Z
 draft: false
-description: The Rooftop Unit (RTU)
+description: The basic building block of the HVAC world is a ventilation problem?
 summary: The basic building block of the HVAC world is a ventilation problem?
 categories:
   - Ventilation, Air Quality and CO2

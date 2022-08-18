@@ -1,5 +1,5 @@
 ---
-title: "Common Ventilation Issues - Part 5"
+title: "Common Issues: Broken Dampers"
 date: 2022-04-21T19:05:40.000Z
 draft: false
 description: Broken Dampers. This is probably the most common issue. Ventilation gets cut off, no one notices and it remains unfixed for many years.

@@ -1,5 +1,5 @@
 ---
-title: "Common Ventilation Issues"
+title: "Common Issues: Slow Fan"
 date: 2022-03-15T19:16:08.000Z
 draft: false
 description:

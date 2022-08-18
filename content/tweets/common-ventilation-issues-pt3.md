@@ -1,5 +1,5 @@
 ---
-title: "Common Ventilation Issues - Part 3"
+title: "Common Issues: No Airflow"
 date: 2022-04-05T18:47:25.000Z
 draft: false
 description: The next in my series of ventilation issues is the worst of all - no airflow.

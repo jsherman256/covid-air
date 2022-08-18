@@ -1,5 +1,5 @@
 ---
-title: "Common Ventilation Issues - Part 2"
+title: "Common Issues: Exhaust Only"
 date: 2022-03-24T00:12:01.000Z
 draft: false
 description:
@@ -15,7 +15,7 @@ tags:
 
 ---
 
-### Exhaust only ventilation
+### Exhaust Only Ventilation
 
 This is common in buildings from the 50's era. Long before we had modern standards, ventilation was bad. These buildings are considered to be "not mechanically ventilated". 
 

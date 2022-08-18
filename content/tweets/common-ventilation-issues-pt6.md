@@ -1,9 +1,9 @@
 ---
-title: "Common Ventilation Issues - Part 6"
+title: "Common Issues: Variable Air Volume Systems"
 date: 2022-06-30T20:08:00.000Z
 draft: false
-description: Variable Air Volume Systems. These systems are standard in most places, but a lot can go wrong causing poor ventilation. Here’s an explanation.
-summary: Variable Air Volume Systems. These systems are standard in most places, but a lot can go wrong causing poor ventilation. Here’s an explanation.
+description:  These systems are standard in most places, but a lot can go wrong causing poor ventilation. Here’s an explanation.
+summary: These systems are standard in most places, but a lot can go wrong causing poor ventilation. Here’s an explanation.
 categories:
   - Ventilation, Air Quality and CO2
   - Common Ventilation Issues
@@ -13,6 +13,8 @@ tags:
 [Source](https://twitter.com/joeyfox85/status/1542600864329875460)
 
 ---
+
+### Variable Air Volume Systems
 
 Supplying air to the spaces can serve 2 main functions – ventilation (outdoor air) and temperature/humidity control (can use recirculated air). More air is required for temperature/humidity control.
 
