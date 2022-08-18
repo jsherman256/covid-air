@@ -26,6 +26,8 @@ If the heating or cooling system are broken, people will notice and complain. If
 
 Preventative maintenance should fix this, but it doesn't. A school I investigated (not from work) in August 2020 had 16 RTUs. 9 of them had broken dampers. The maintenance contractors didn't bother checking or fixing them since no one complained.
 
+---
+
 ### How To Diagnose
 
 The only way a non-professional can do this is by monitoring the CO2. If you check the flow from the diffusers, it will look normal. You'd expect CO2 levels to rise since outdoor air isn't being supplied.
@@ -38,12 +40,15 @@ When I commission units, I also check the flow going into the outdoor air damper
 
 ![Picture of a rooftop unit with arrows showing where air enters and leaves](/rtu-annotated.jpg)
 
+---
+
 This is typical of a constant problem with the industry. There is no incentive to fix broken dampers.
 - It costs money
 - Costs effort and time
 - Increases utilities bill
 - No one will notice
 - No oversight or enforcement
+
 Why bother? And so they remain broken.
 
-2 things we can do is work on regulations to fix this (good luck) and educating people to advocate for themselves. If there's high CO2 levels or smells linger for too long, first check the air flow. If it's fine, ask the building operator to ensure the dampers are working.
+Two things we can do is work on regulations to fix this (good luck) and educating people to advocate for themselves. If there's high CO2 levels or smells linger for too long, first check the air flow. If it's fine, ask the building operator to ensure the dampers are working.
