@@ -3,6 +3,11 @@ title: "It's Airborne."
 theme: 'PaperMod'
 googleAnalytics: G-R2WREQMZ3M
 enableRobotsTXT: true
+outputs:
+  home:
+    - html
+    - rss
+    - json
 menu:
   main:
     - identifier: protect
@@ -17,9 +22,9 @@ menu:
       name: Ventilation, Air Quality and CO2
       url: /categories/ventilation-air-quality-and-co2/
       weight: 4
-    - identifier: more
-      name: More
-      url: /tags/
+    - identifier: search
+      name: ...
+      url: /search/
       weight: 5
 cascade:
   ShowReadingTime: true
