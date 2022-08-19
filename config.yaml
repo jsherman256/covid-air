@@ -2,6 +2,7 @@ baseUrl: 'http://www.itsairborne.com/'
 title: "It's Airborne."
 theme: 'PaperMod'
 googleAnalytics: G-R2WREQMZ3M
+enableRobotsTXT: true
 menu:
   main:
     - identifier: protect
@@ -16,6 +17,10 @@ menu:
       name: Ventilation, Air Quality and CO2
       url: /categories/ventilation-air-quality-and-co2/
       weight: 4
+    - identifier: more
+      name: More
+      url: /tags/
+      weight: 5
 cascade:
   ShowReadingTime: true
   ShowPostNavLinks: true
