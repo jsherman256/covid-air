@@ -8,7 +8,7 @@ categories:
   - HEPA Filters and the Corsi-Rosenthal Box
 tags:
   - HEPA
-  - CADR
+  - Myths
 ---
 [Source](https://twitter.com/joeyfox85/status/1484357848821747717)
 
