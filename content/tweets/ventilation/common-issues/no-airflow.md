@@ -31,7 +31,7 @@ The air starts in the air handling unit and is delivered to the space. Here's a 
 
 ### How You Can Diagnose
 
-Only ventilation experts have the ability to do this – and [you can easily become one](/tweets/ventilation-training/). It's really not hard
+Only ventilation experts have the ability to do this – and [you can easily become one]({{<relref "ventilation-training">}}). It's really not hard
 
 ### How Professionals Diagnose
 

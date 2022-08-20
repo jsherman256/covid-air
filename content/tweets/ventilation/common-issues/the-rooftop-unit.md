@@ -41,7 +41,7 @@ ACH = 0.0083x432 = 3.5
 
 Most of our modern installations have `500 CFM/classroom = 4.15 ACH`
 
-Now what can you get out of an [RTU](/tweets/intro-to-rtu/)?
+Now what can you get out of an [RTU]({{<relref "intro-to-rtu">}})?
 
 ---
 
@@ -53,7 +53,7 @@ Now we know how much total air is supplied, what % of outdoor air can be supplie
 
 The limiting factor is the supply air temperature without heating.
 
-Imagine a day where it's cold outside (-5 °C). You can't leave the heating running all the time or you'll overheat. Sometimes it will need to turn off and when this happens, the mixed air temperature is [the same as the supply air temperature](/tweets/intro-to-rtu/).
+Imagine a day where it's cold outside (-5 °C). You can't leave the heating running all the time or you'll overheat. Sometimes it will need to turn off and when this happens, the mixed air temperature is [the same as the supply air temperature]({{<relref "intro-to-rtu">}}).
 
 If the return air temperature is 21 °C (typical space), outdoor air temp is -5 °C and you are supplying 25% Outdoor Air (25% OA), the mixed air temperature will be:
 ```

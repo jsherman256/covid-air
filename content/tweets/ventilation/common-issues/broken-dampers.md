@@ -16,11 +16,11 @@ tags:
 
 ### Broken Dampers
 
-The mixed air dampers/economizer are [dampers that modulate to select](/tweets/intro-to-rtu/) between supplying return air or outdoor air. When they are fully "closed", it's 100% return air and 0% outdoor air. When they are "open", it's 0% return air and 100% outdoor air.
+The mixed air dampers/economizer are [dampers that modulate to select]({{<relref "intro-to-rtu">}}) between supplying return air or outdoor air. When they are fully "closed", it's 100% return air and 0% outdoor air. When they are "open", it's 0% return air and 100% outdoor air.
 
 ![Diagram of an RTU. Motorized dampers are closed, preventing recirculation of indoor air. 100% of the supplied air is outdoor air](/rtu-diagram-100-outdoor.png)
 
-Dampers are designed to fail in the "closed" position - no outdoor air. Why? [This protects the equipment](/tweets/hvac-priorities/) and the people in the space. Bringing in 100% outdoor air can damage the equipment and freeze or overheat the occupants.
+Dampers are designed to fail in the "closed" position - no outdoor air. Why? [This protects the equipment]({{<relref "hvac-priorities">}}) and the people in the space. Bringing in 100% outdoor air can damage the equipment and freeze or overheat the occupants.
 
 If the heating or cooling system are broken, people will notice and complain. If ventilation isn't working, [most people don't notice](https://twitter.com/DavidElfstrom/status/1513903768185753611). This even happens when fans are broken for long periods of time. If dampers break, they remain broken.
 
@@ -34,7 +34,7 @@ The only way a non-professional can do this is by monitoring the CO2. If you che
 
 There might be days that the CO2 looks okay. There could be some outdoor air leakage through the dampers, low capacity or if the windows are open, it would be fine. But that's why it's important to constantly monitor the CO2.
 
-In my job, I can easily diagnose this from the building automation system. From the temperatures inside the unit, if the dampers are supposed to be open, but the mixed air temperature (MAT) equals the return air temperature (RAT), [they have failed](/tweets/intro-to-rtu/).
+In my job, I can easily diagnose this from the building automation system. From the temperatures inside the unit, if the dampers are supposed to be open, but the mixed air temperature (MAT) equals the return air temperature (RAT), [they have failed]({{<relref "intro-to-rtu">}}).
 
 When I commission units, I also check the flow going into the outdoor air damper and also visually confirm it's moving from the outside. You can also see the backdraft dampers flapping from the exhaust air. HVAC technicians can check by opening up the unit. 
 

@@ -53,6 +53,6 @@ This is about cost. Especially in the age of COVID, poorly ventilated buildings 
 
 I've left out filtration and UV which can also be used for mitigating transmission without any structural changes.
 
-If you want to know how effective the different measures are, [check out this thread](/tweets/best-and-worst/).
+If you want to know how effective the different measures are, [check out this thread]({{<relref "best-and-worst">}}).
 
-If you want to know what I mean about "make sure the equipment that you have is functioning as was intended in the design", it's [this](https://twitter.com/joeyfox85/status/1503812309445189633) and [this](https://twitter.com/joeyfox85/status/1511415227270770697) and [this](https://twitter.com/joeyfox85/status/1517218027644854274) and [this](https://twitter.com/joeyfox85/status/1542600864329875460)
+If you want to know what I mean about "make sure the equipment that you have is functioning as was intended in the design", check posts about [common ventilation issues]({{<relref "common-ventilation-issues">}}).

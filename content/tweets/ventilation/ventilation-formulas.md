@@ -39,7 +39,7 @@ ASHRAE defines a flow/person and flow/area depending on the space.
 
 `Required outdoor air = # people x flow/person + area x flow/area.`
 
-Details are in [this thread](/tweets/what-should-your-ventilation-be/)
+Details are in [this thread]({{<relref "what-should-your-ventilation-be">}})
 
 ### 3. CO2 - Rebreathed fraction
 
@@ -58,18 +58,18 @@ You need to look up in a table CO2 generated (CO2 gen) based on the age and acti
 
 `Indoor CO2 = Outdoor CO2 + CO2 gen x 1000000/ ventilation/person`
 
-{{< tweet user="joeyfox85" id="1534335303607017473" >}}
+{{<tweet user="joeyfox85" id="1534335303607017473">}}
 
 Alternatively,
 `Ventilation/person = CO2 gen x 1000000/(Indoor air CO2 - outdoor air CO2)`
 
 You can also just look this up in the table:
 
-{{< tweet user="joeyfox85" id="1534335316064145409" >}}
+{{<tweet user="joeyfox85" id="1534335316064145409">}}
 
 ### 5. Particle Reduction
 
-Every air change [removes 63% of remaining particles](/tweets/one-air-change/) (assuming nothing is being generated).
+Every air change [removes 63% of remaining particles]({{<relref "one-air-change">}}) (assuming nothing is being generated).
 
 ```
 % Particles Remaining = 1/e^(air changes)

@@ -16,7 +16,7 @@ tags:
 
 ---
 
-I give [a shorter version in this thread](/tweets/calculating-ventilation/), but here's a more detailed analysis of the different metrics.
+I give [a shorter version in this thread]({{<relref "calculating-ventilation">}}), but here's a more detailed analysis of the different metrics.
 
 First, indoor pollutants come from 3 places: **people, the space and outdoors** (I'm not dealing with outdoors here).
 

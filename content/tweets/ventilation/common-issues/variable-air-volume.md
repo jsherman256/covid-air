@@ -33,7 +33,7 @@ They can save energy, but there's a massive disconnect between those that design
 
 So what can you do to stop this?
 
-First step is to [become a ventilation expert](/tweets/ventilation-training/), especially steps 3 & 6 - constantly monitor airflow and monitor CO2.
+First step is to [become a ventilation expert]({{<relref "ventilation-training">}}), especially steps 3 & 6 - constantly monitor airflow and monitor CO2.
 
 If you ever see the airflow stop, something is wrong. It should never happen when people are there.
 

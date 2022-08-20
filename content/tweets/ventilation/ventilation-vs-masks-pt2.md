@@ -15,7 +15,7 @@ tags:
 
 ---
 
-I've done [a similar thread on this](/tweets/masks-vs-ventilation/) comparing masking or mask mandates with adding HEPA filters here. This is looking at it from a different perspective - what's your risk at different CO2 levels and different types of masks.
+I've done [a similar thread on this]({{<relref "masks-vs-ventilation">}}) comparing masking or mask mandates with adding HEPA filters here. This is looking at it from a different perspective - what's your risk at different CO2 levels and different types of masks.
 
 The risk of getting infected is based on the virus concentration in the air. Masks filter the air you breathe in and lower the concentration. I'll use the values from [this table](https://twitter.com/brosseau_lisa/status/1449409318412079108).
 
@@ -33,7 +33,7 @@ The math is pretty simple:
 
 Now you can look up those values in the table I made. I'm assuming that mitigation is purely from ventilation. I'm also dealing with shared room and not short range transmission.
 
-{{< tweet user="joeyfox85" id="1534335316064145409" >}}
+{{<tweet user="joeyfox85" id="1534335316064145409">}}
 
 ---
 

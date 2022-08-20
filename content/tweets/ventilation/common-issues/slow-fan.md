@@ -20,7 +20,7 @@ This is complete negligence.
 
 It's done by all the leading rooftop unit manufacturers.
 
-The [rooftop unit](/tweets/intro-to-rtu/) is used for 2 main things: ventilation (fresh air) & temperature control (heating and cooling).
+The [rooftop unit]({{<relref "intro-to-rtu">}}) is used for 2 main things: ventilation (fresh air) & temperature control (heating and cooling).
 
 The fan is preprogrammed for 2 speeds:
 

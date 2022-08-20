@@ -78,7 +78,7 @@ For this case, 13.8 CFM/person or 6.8 lps/person for kids puts you around 950 pp
 
 ---
 
-We can also do this the long way. Kids sitting at desks is [around 1.3 Met](/tweets/calculating-ventilation-from-co2/). This translates to [0.0033 lps of CO2 for elementary and 0.0045 lps for high school](/tweets/calculating-ventilation-from-co2/). 
+We can also do this the long way. Kids sitting at desks is [around 1.3 Met]({{<relref "calculating-ventilation-from-co2">}}). This translates to [0.0033 lps of CO2 for elementary and 0.0045 lps for high school]({{<relref "calculating-ventilation-from-co2">}}). 
 
 |||
 |-|-|
