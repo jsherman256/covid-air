@@ -11,7 +11,7 @@ categories:
 
 ---
 
-First, there are [3 science based methods](/engineer/methods/) to clean the air:
+First, there are [3 science based methods]({{<relref "methods">}}) to clean the air:
 - **Ventilation** - bringing in outdoor air
 - **Filtration** - filtering particles from the air
 - **UV** - killing microbes with UV light

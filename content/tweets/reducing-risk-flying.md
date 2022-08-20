@@ -75,4 +75,4 @@ If you can, throughout this whole process, wear a N95, try to move as quickly as
 
 ---
 
-If you are staying at hotels, [just follow this thread](/protect/covid-in-hotels/). Enjoy your vacation.
+If you are staying at hotels, [just follow this thread]({{<relref "covid-in-hotels">}}). Enjoy your vacation.
