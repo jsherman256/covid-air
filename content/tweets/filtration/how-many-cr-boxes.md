@@ -3,7 +3,7 @@ title: "How Many Corsi-Rosenthal Boxes Do You Need?"
 date: 2022-04-24T18:50:32.000Z
 draft: false
 description: 
-summary: 
+summary: Assume CR Box CADR = 275 CFM. Goal is 6 ACH.
 categories:
   - HEPA Filters and the Corsi-Rosenthal Box
 tags:
