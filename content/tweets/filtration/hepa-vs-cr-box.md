@@ -5,6 +5,9 @@ draft: false
 description: "Both HEPA filters and CR Boxes do the same thing - they filter the air. Which one is better?"
 summary: Both HEPA filters and CR Boxes do the same thing - they filter the air. Which one is better? 
 categories:
+  - HEPA Filters and the Corsi-Rosenthal Box
+tags:
+  - CR Box
 ---
 [Source](https://twitter.com/joeyfox85/status/1486446536884109315)
 
