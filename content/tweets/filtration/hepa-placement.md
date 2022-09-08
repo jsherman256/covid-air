@@ -3,7 +3,7 @@ title: "HEPA Filter Placement Guidelines"
 date: 2022-05-26T00:20:27.000Z
 draft: false
 description: 
-summary: 
+summary: 12 Tips for proper HEPA filter placement
 categories:
   - HEPA Filters and the Corsi-Rosenthal Box
 ---
