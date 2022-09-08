@@ -5,6 +5,7 @@ draft: false
 description:
 summary: Many people are wondering if they should bring their own smaller HEPA filter to the office.
 categories:
+  - HEPA Filters and the Corsi-Rosenthal Box
 ---
 [Source](https://twitter.com/joeyfox85/status/1524178915241115649)
 
