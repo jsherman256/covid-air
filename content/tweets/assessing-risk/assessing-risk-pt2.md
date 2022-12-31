@@ -2,14 +2,8 @@
 title: "Assessing COVID Risk – Part 2 – Virus Concentration"
 date: 2022-06-14T20:16:27.000Z
 draft: true
-description: 
-So you need to assess your own risk. In order to do that, you need to be able to estimate the concentration of the virus that could be in the air. Here's how you do it (it’s a bit complicated, but I’ll try to explain).
-
-1/19
-summary: 
-So you need to assess your own risk. In order to do that, you need to be able to estimate the concentration of the virus that could be in the air. Here's how you do it (it’s a bit complicated, but I’ll try to explain).
-
-1/19
+description: So you need to assess your own risk. In order to do that, you need to be able to estimate the concentration of the virus that could be in the air. Here's how you do it (it’s a bit complicated, but I’ll try to explain).
+summary: So you need to assess your own risk. In order to do that, you need to be able to estimate the concentration of the virus that could be in the air. Here's how you do it (it’s a bit complicated, but I’ll try to explain).
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1536804782282838017)

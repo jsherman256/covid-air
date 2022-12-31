@@ -2,32 +2,8 @@
 title: "Intro to ultraviolet light against COVID 🧵"
 date: 2022-03-01T01:09:14.000Z
 draft: true
-description: 
-Ultraviolet light has many different applications. Here are 6 that have been used for COVID:
-
-1. In-duct
-2. Stand-alone
-3. Upper Room
-4. Far UV
-5. Surface Sterilization
-6. Photocatalytic Oxidation
-
-TL;DR - See tweet 16 👇
-
-1/20 https://t.co/X9zz8Ym5TT
-summary: 
-Ultraviolet light has many different applications. Here are 6 that have been used for COVID:
-
-1. In-duct
-2. Stand-alone
-3. Upper Room
-4. Far UV
-5. Surface Sterilization
-6. Photocatalytic Oxidation
-
-TL;DR - See tweet 16 👇
-
-1/20 https://t.co/X9zz8Ym5TT
+description: Ultraviolet light has many different applications. Here are 6 that have been used for COVID
+summary: Ultraviolet light has many different applications. Here are 6 that have been used for COVID
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1498465352266752001)

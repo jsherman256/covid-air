@@ -2,22 +2,8 @@
 title: "UVGI AND ITS EFFECTS 🧵"
 date: 2022-03-17T19:40:20.000Z
 draft: true
-description: 
-TL;DR - UVC kills microbes like viruses. Bad for people, but won't kill you.
-
-This post explains what UVGI is and what it does, not how it's used. If you want to know how it's used, see this:
-
-https://t.co/WG2cKeTVB8
-
-1/12
-summary: 
-TL;DR - UVC kills microbes like viruses. Bad for people, but won't kill you.
-
-This post explains what UVGI is and what it does, not how it's used. If you want to know how it's used, see this:
-
-https://t.co/WG2cKeTVB8
-
-1/12
+description: TL;DR - UVC kills microbes like viruses. Bad for people, but won't kill you. This post explains what UVGI is and what it does, not how it's used. If you want to know how it's used, see this
+summary: TL;DR - UVC kills microbes like viruses. Bad for people, but won't kill you. This post explains what UVGI is and what it does, not how it's used. If you want to know how it's used, see this
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1504543175297359885)

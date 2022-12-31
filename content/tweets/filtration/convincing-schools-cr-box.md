@@ -2,14 +2,8 @@
 title: "CONVINCING SCHOOLS TO PUT IN A #corsirosenthalbox"
 date: 2022-01-06T15:48:23.000Z
 draft: true
-description: 
-CR Boxes are a cheap, quick and effective way to increase filtration. They are one of the best tools we have right now to protect kids from COVID. How to get them into classrooms?
-
-1/13
-summary: 
-CR Boxes are a cheap, quick and effective way to increase filtration. They are one of the best tools we have right now to protect kids from COVID. How to get them into classrooms?
-
-1/13
+description: CR Boxes are a cheap, quick and effective way to increase filtration. They are one of the best tools we have right now to protect kids from COVID. How to get them into classrooms?
+summary: CR Boxes are a cheap, quick and effective way to increase filtration. They are one of the best tools we have right now to protect kids from COVID. How to get them into classrooms?
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1479117653281173516)

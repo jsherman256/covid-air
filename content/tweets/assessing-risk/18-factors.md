@@ -2,14 +2,8 @@
 title: "Assessing COVID Risk - 18 Factors"
 date: 2022-06-27T21:03:51.000Z
 draft: true
-description: 
-What are all the factors you need to consider when assessing risk? These can be broken down in different ways, but here's my comprehensive list of what contributes to risk. In no particular order:
-
-1/21
-summary: 
-What are all the factors you need to consider when assessing risk? These can be broken down in different ways, but here's my comprehensive list of what contributes to risk. In no particular order:
-
-1/21
+description: What are all the factors you need to consider when assessing risk? These can be broken down in different ways, but here's my comprehensive list of what contributes to risk. In no particular order
+summary: What are all the factors you need to consider when assessing risk? These can be broken down in different ways, but here's my comprehensive list of what contributes to risk. In no particular order
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1541527755367583746)

@@ -2,14 +2,8 @@
 title: "Assessing COVID Risk - Room Size"
 date: 2022-06-23T00:21:28.000Z
 draft: true
-description: 
-Did you ever consider that the size of the room can have a big effect on how risky the place is? It could make a big difference. Here's why:
-
-1/10
-summary: 
-Did you ever consider that the size of the room can have a big effect on how risky the place is? It could make a big difference. Here's why:
-
-1/10
+description: Did you ever consider that the size of the room can have a big effect on how risky the place is? It could make a big difference. Here's why
+summary: Did you ever consider that the size of the room can have a big effect on how risky the place is? It could make a big difference. Here's why
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1539765545444196353)

@@ -2,19 +2,13 @@
 title: "Assessing COVID Risk - The Three C's"
 date: 2022-07-14T19:55:46.000Z
 draft: true
-description: 
-Throughout the pandemic, public health messaging told people to focus on the 3 C's:
+description: Throughout the pandemic, public health messaging told people to focus on the 3 C's
+summary: Throughout the pandemic, public health messaging told people to focus on the 3 C's
+categories:
+---
+[Source](https://twitter.com/joeyfox85/status/1547671216047083523)
 
-- Close contact
-- Confined with poor ventilation.
-- Crowded places
-
-These do a good job at summarizing risk factors.
-
-1/13
-https://t.co/pF3CoDyb1K
-summary: 
-Throughout the pandemic, public health messaging told people to focus on the 3 C's:
+---
 
 - Close contact
 - Confined with poor ventilation.
@@ -24,11 +18,6 @@ These do a good job at summarizing risk factors.
 
 1/13
 https://www.who.int/brunei/news/infographics---english
-categories:
----
-[Source](https://twitter.com/joeyfox85/status/1547671216047083523)
-
----
 
 The goal is to simplify the message, but here's a deeper dive at why these scenarios are high risk for COVID transmission.
 

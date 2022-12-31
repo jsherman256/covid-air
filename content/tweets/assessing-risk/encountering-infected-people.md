@@ -2,14 +2,8 @@
 title: "Assessing COVID Risk - Encountering Infected People"
 date: 2022-07-05T19:31:14.000Z
 draft: true
-description: 
-I've updated this plot by @Kit_Yates_Maths to include gridlines (they aren't perfect, but very close). You can use this in different ways depending on your risk tolerance and values. Here are some examples.
-
-1/5 https://t.co/VuDMQPzJEy
-summary: 
-I've updated this plot by @Kit_Yates_Maths to include gridlines (they aren't perfect, but very close). You can use this in different ways depending on your risk tolerance and values. Here are some examples.
-
-1/5 https://t.co/VuDMQPzJEy
+description: I've updated this plot by @Kit_Yates_Maths to include gridlines (they aren't perfect, but very close). You can use this in different ways depending on your risk tolerance and values. Here are some examples.
+summary: I've updated this plot by @Kit_Yates_Maths to include gridlines (they aren't perfect, but very close). You can use this in different ways depending on your risk tolerance and values. Here are some examples.
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1544403547806220292)

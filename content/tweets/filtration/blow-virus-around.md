@@ -2,14 +2,8 @@
 title: "THEY BLOW THE VIRUS AROUND"
 date: 2022-01-19T18:03:16.000Z
 draft: true
-description: 
-This is one of the most prevalent lies against HEPA filters. It’s been used by school boards and politicians as an excuse to not put HEPA filters into schools. This myth needs a thorough debunking.
-
-1/9
-summary: 
-This is one of the most prevalent lies against HEPA filters. It’s been used by school boards and politicians as an excuse to not put HEPA filters into schools. This myth needs a thorough debunking.
-
-1/9
+description: This is one of the most prevalent lies against HEPA filters. It’s been used by school boards and politicians as an excuse to not put HEPA filters into schools. This myth needs a thorough debunking.
+summary: This is one of the most prevalent lies against HEPA filters. It’s been used by school boards and politicians as an excuse to not put HEPA filters into schools. This myth needs a thorough debunking.
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1483862638291525634)

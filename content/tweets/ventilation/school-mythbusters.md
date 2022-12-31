@@ -2,27 +2,17 @@
 title: "SCHOOL VENTILATION MYTHBUSTERS"
 date: 2022-01-10T01:33:14.000Z
 draft: true
-description: 
-MYTH: Mechanical Ventilation + MERV-13 renders other measures ineffective.
-
-FACT: Various measures are cumulative (they add together).
-
-This misinformation has been pushed by public health and school boards and it needs to be stopped.
-
-1/7 https://t.co/ZANH6zCSdI
-summary: 
-MYTH: Mechanical Ventilation + MERV-13 renders other measures ineffective.
-
-FACT: Various measures are cumulative (they add together).
-
-This misinformation has been pushed by public health and school boards and it needs to be stopped.
-
-1/7 https://t.co/ZANH6zCSdI
+description: This misinformation has been pushed by public health and school boards and it needs to be stopped.
+summary: This misinformation has been pushed by public health and school boards and it needs to be stopped.
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1480351998474080261)
 
 ---
+
+MYTH: Mechanical Ventilation + MERV-13 renders other measures ineffective.
+
+FACT: Various measures are cumulative (they add together).
 
 If you have 3 ACH (air changes/hour) from air being supplied through mechanical ventilation/filtration and 2 ACH being supplied by stand-alone HEPA filters, you have a total of 5 ACH. (3+2=5)
 

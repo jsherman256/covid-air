@@ -2,14 +2,8 @@
 title: "Assessing COVID Risk – Part 1 – Getting Infected"
 date: 2022-06-12T23:27:12.000Z
 draft: true
-description: 
-Since we are in the "assess your own risk" phase of this pandemic, it would be helpful if public health officials would give a master class on assessing risk. Looks like academics and engineers need to do it instead.
-
-1/13
-summary: 
-Since we are in the "assess your own risk" phase of this pandemic, it would be helpful if public health officials would give a master class on assessing risk. Looks like academics and engineers need to do it instead.
-
-1/13
+description: Since we are in the "assess your own risk" phase of this pandemic, it would be helpful if public health officials would give a master class on assessing risk. Looks like academics and engineers need to do it instead.
+summary: Since we are in the "assess your own risk" phase of this pandemic, it would be helpful if public health officials would give a master class on assessing risk. Looks like academics and engineers need to do it instead.
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1536128012189679616)

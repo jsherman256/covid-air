@@ -2,18 +2,8 @@
 title: "CALCULATING WHAT A HEPA FILTER DOES"
 date: 2021-12-28T15:41:49.000Z
 draft: true
-description: 
-Portable air purifiers (HEPA filters) are not magic machines that you turn on in the corner of the room and they make COVID go away.
-
-They usually are advertised with a square footage, but that's not accurate. Here's what it means:
-
-1/10
-summary: 
-Portable air purifiers (HEPA filters) are not magic machines that you turn on in the corner of the room and they make COVID go away.
-
-They usually are advertised with a square footage, but that's not accurate. Here's what it means:
-
-1/10
+description: Portable air purifiers (HEPA filters) are not magic machines that you turn on in the corner of the room and they make COVID go away. They usually are advertised with a square footage, but that's not accurate. Here's what it means
+summary: Portable air purifiers (HEPA filters) are not magic machines that you turn on in the corner of the room and they make COVID go away. They usually are advertised with a square footage, but that's not accurate. Here's what it means
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1475854507326291968)

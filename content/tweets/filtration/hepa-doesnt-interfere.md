@@ -2,24 +2,8 @@
 title: "HEPA FILTERS DO NOT INTERFERE WITH VENTILATION"
 date: 2022-01-20T18:04:25.000Z
 draft: true
-description: 
-A common lie about stand-alone HEPA filters is that they interfere with ventilation. There is no truth to this. 
-
-This is how they work👇. Please explain how this interferes with ventilation.
-
-1/2
-
-https://t.co/k2dMa2pLU7
-summary: 
-A common lie about stand-alone HEPA filters is that they interfere with ventilation. There is no truth to this. 
-
-This is how they work👇. Please explain how this interferes with ventilation.
-
-1/2
-
-
-
-https://t.co/k2dMa2pLU7
+description: A common lie about stand-alone HEPA filters is that they interfere with ventilation. There is no truth to this.  This is how they work👇. Please explain how this interferes with ventilation.
+summary: A common lie about stand-alone HEPA filters is that they interfere with ventilation. There is no truth to this. This is how they work👇. Please explain how this interferes with ventilation.
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1484225316943974408)

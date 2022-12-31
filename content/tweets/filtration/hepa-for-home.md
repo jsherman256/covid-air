@@ -2,23 +2,15 @@
 title: "BUYING A HEPA FILTER FOR YOUR HOME  🧵"
 date: 2022-01-16T19:31:36.000Z
 draft: true
-description: 
-I've been asked about sizing a HEPA filter for your home. This is different than sizing one for public spaces with other people. 
-
-This does not provide fresh air. Ventilation is required for that. Here are some things to consider:
-
-1/10
-summary: 
-I've been asked about sizing a HEPA filter for your home. This is different than sizing one for public spaces with other people. 
-
-This does not provide fresh air. Ventilation is required for that. Here are some things to consider:
-
-1/10
+description: I've been asked about sizing a HEPA filter for your home. This is different than sizing one for public spaces with other people. 
+summary: I've been asked about sizing a HEPA filter for your home. This is different than sizing one for public spaces with other people. 
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1482797703457390601)
 
 ---
+
+This does not provide fresh air. Ventilation is required for that. Here are some things to consider:
 
 WHAT IS YOUR GOAL?
 
