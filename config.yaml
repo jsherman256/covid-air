@@ -33,7 +33,7 @@ cascade:
 params:
   description: "#COVIDisAirborne. If you know how it spreads, you know how to stop it."
   ShowShareButtons: true
-  defaultTheme: dark
+  defaultTheme: light
   homeInfoParams:
     title: "#COVIDisAirborne."
     content: "If you know how it spreads, you know how to stop it. Posts by [@joeyfox85](https://twitter.com/joeyfox85)"
@@ -42,3 +42,5 @@ params:
       url: "https://twitter.com/joeyfox85/status/1554939526560333825"
     - name: "github"
       url: "https://github.com/jsherman256/covid-air/"
+    - name: "email"
+      url: "mailto:c19isairborne@gmail.com"
