@@ -2,27 +2,16 @@
 title: "How to Commission an Upper Room UV System 🧵"
 date: 2022-04-15T19:12:07.000Z
 draft: true
-description: 
-What happened in this article is recklessly negligent. People were hurt because some school administrators became a bunch of yahoos playing with stuff they knew nothing about.
-
-H/t @AwsHenry
-
-1/10
-
-https://t.co/H0VhNUaYAr
-summary: 
-What happened in this article is recklessly negligent. People were hurt because some school administrators became a bunch of yahoos playing with stuff they knew nothing about.
-
-H/t @AwsHenry
-
-1/10
-
-https://www.wxxinews.org/local-news/2022-04-14/geneseo-faculty-say-uv-c-light-to-target-covid-damaged-their-eyes
+description: What happened in this article is recklessly negligent. People were hurt because some school administrators became a bunch of yahoos playing with stuff they knew nothing about.
+summary: What happened in this article is recklessly negligent. People were hurt because some school administrators became a bunch of yahoos playing with stuff they knew nothing about.
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1515045321491066884)
 
 ---
+
+https://www.wxxinews.org/local-news/2022-04-14/geneseo-faculty-say-uv-c-light-to-target-covid-damaged-their-eyes
+H/t @AwsHenry
 
 I'll explain here what happened, what upper room UV should look like when installed properly, what happens if it isn't installed properly, what I've done for my own due diligence and how commission works.
 

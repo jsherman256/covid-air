@@ -29,10 +29,6 @@ Here's their stories 🧵:
 
 {{< tweet user="NeshaHutchinson" id="1503281691779297281" >}}
 
-{{< tweet user="Mim5453" id="1503225842759053317" >}}
-
-{{< tweet user="XeniaZoo" id="1503225901923766273" >}}
-
 {{< tweet user="LunchboxKim" id="1503379356898398208" >}}
 
 {{< tweet user="cobalt123" id="1503198912944828416" >}}

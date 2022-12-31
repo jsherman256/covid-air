@@ -2,14 +2,8 @@
 title: "Upper Room UVGI in Canada - Intro"
 date: 2022-03-31T03:50:50.000Z
 draft: true
-description: 
-I've been looking at installing Upper Room UVGI in my kid's school. Pretty sure it will be the first one in a school in Canada if I can succeed. 
-
-1/5
-summary: 
-I've been looking at installing Upper Room UVGI in my kid's school. Pretty sure it will be the first one in a school in Canada if I can succeed. 
-
-1/5
+description: I've been looking at installing Upper Room UVGI in my kid's school. Pretty sure it will be the first one in a school in Canada if I can succeed. 
+summary: I've been looking at installing Upper Room UVGI in my kid's school. Pretty sure it will be the first one in a school in Canada if I can succeed. 
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1509377654654480392)

@@ -2,14 +2,8 @@
 title: "THE MINI #corsirosenthalbox"
 date: 2022-01-17T03:48:57.000Z
 draft: true
-description: 
-Here it is:
-
-1/6 https://t.co/RmRnnAvrDY
-summary: 
-Here it is:
-
-1/6 https://t.co/RmRnnAvrDY
+description: Here it is
+summary: Here it is
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1482922866123456515)

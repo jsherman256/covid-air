@@ -2,14 +2,8 @@
 title: "Assessing COVID Risk - Testing Centers, Hospitals &amp; Schools"
 date: 2022-07-20T19:55:23.000Z
 draft: true
-description: 
-N95 bans were rampant in Canada. One of the many commonly used excuses was "testing centers or hospitals don’t need N95s, so you don't either". It was based on not understanding how COVID spreads.
-
-1/9
-summary: 
-N95 bans were rampant in Canada. One of the many commonly used excuses was "testing centers or hospitals don’t need N95s, so you don't either". It was based on not understanding how COVID spreads.
-
-1/9
+description: N95 bans were rampant in Canada. One of the many commonly used excuses was "testing centers or hospitals don’t need N95s, so you don't either". It was based on not understanding how COVID spreads.
+summary: N95 bans were rampant in Canada. One of the many commonly used excuses was "testing centers or hospitals don’t need N95s, so you don't either". It was based on not understanding how COVID spreads.
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1549845443357589504)

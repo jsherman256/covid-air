@@ -2,18 +2,8 @@
 title: "Installing Upper Room UV in Classrooms in Canada 🧵"
 date: 2022-04-08T00:47:05.000Z
 draft: true
-description: 
-First, thank you to @WBahnfleth and @Don_Milton who have given me advice. The person who has spent time answering emails and in zoom meetings while guiding me through this has been Ed Nardell.
-
-https://t.co/HC3ouHFIp3
-
-1/15
-summary: 
-First, thank you to @WBahnfleth and @Don_Milton who have given me advice. The person who has spent time answering emails and in zoom meetings while guiding me through this has been Ed Nardell.
-
-https://time.com/6143799/covid-19-indoor-air-cleaning/
-
-1/15
+description: First, thank you to @WBahnfleth and @Don_Milton who have given me advice. The person who has spent time answering emails and in zoom meetings while guiding me through this has been Ed Nardell.
+summary: First, thank you to @WBahnfleth and @Don_Milton who have given me advice. The person who has spent time answering emails and in zoom meetings while guiding me through this has been Ed Nardell.
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1512230517705519107)

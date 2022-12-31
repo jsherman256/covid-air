@@ -3,9 +3,7 @@ title: "It's official. I'm chairing the @O_S_P_E Indoor Air Quality Advisory Gro
 date: 2022-06-09T19:26:12.000Z
 draft: true
 description: 
-https://t.co/stGS99V3qs
 summary: 
-https://t.co/stGS99V3qs
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1534980199074480139)

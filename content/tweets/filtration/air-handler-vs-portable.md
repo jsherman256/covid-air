@@ -2,16 +2,8 @@
 title: "MERV 13 in Air Handling Unit vs. Space HEPA Filter 🧵"
 date: 2022-01-30T16:34:33.000Z
 draft: true
-description: 
-Many schools have chosen to upgrade the filters in the air handling units from MERV 8 to MERV 13 instead of putting in stand-alone HEPA filters. These 2 methods are not equal in risk reduction.
-
-1/8
-https://t.co/CF78jTuaYR
-summary: 
-Many schools have chosen to upgrade the filters in the air handling units from MERV 8 to MERV 13 instead of putting in stand-alone HEPA filters. These 2 methods are not equal in risk reduction.
-
-1/8
-https://t.co/CF78jTuaYR
+description: Many schools have chosen to upgrade the filters in the air handling units from MERV 8 to MERV 13 instead of putting in stand-alone HEPA filters. These 2 methods are not equal in risk reduction.
+summary: Many schools have chosen to upgrade the filters in the air handling units from MERV 8 to MERV 13 instead of putting in stand-alone HEPA filters. These 2 methods are not equal in risk reduction.
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1487826577106874370)

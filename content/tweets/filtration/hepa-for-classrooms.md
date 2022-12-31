@@ -3,28 +3,21 @@ title: "WHICH HEPA FILTERS TO USE FOR CLASSROOMS"
 date: 2022-01-18T15:33:26.000Z
 draft: true
 description: 
-(Assuming CR Boxes are out of the running)
-
-In a typical classroom, you'd want:
-Ventilated: about 250 CADR
-Under-ventilated: about 500 CADR
-Noise: &lt;55dB
-
-@marwa_zaatari has already done the research. Which one would you pick? https://t.co/yf4pCHBdru
 summary: 
-(Assuming CR Boxes are out of the running)
-
-In a typical classroom, you'd want:
-Ventilated: about 250 CADR
-Under-ventilated: about 500 CADR
-Noise: &lt;55dB
-
-@marwa_zaatari has already done the research. Which one would you pick? https://t.co/yf4pCHBdru
 categories:
 ---
 [Source](https://twitter.com/joeyfox85/status/1483462543314239490)
 
 ---
+
+(Assuming CR Boxes are out of the running)
+
+In a typical classroom, you'd want:
+Ventilated: about 250 CADR
+Under-ventilated: about 500 CADR
+Noise: &lt;55dB
+
+@marwa_zaatari has already done the research. Which one would you pick? 
 
 ![Portable air cleaner comparison](/portable-air-cleaners.jpg)
 
