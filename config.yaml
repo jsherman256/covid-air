@@ -30,6 +30,8 @@ cascade:
   ShowReadingTime: true
   ShowPostNavLinks: true
   author: "Joey Fox, P. Eng, M.A.Sc"
+  images:
+    - "/opengraph.png"
 params:
   description: "#COVIDisAirborne. If you know how it spreads, you know how to stop it."
   ShowShareButtons: true
